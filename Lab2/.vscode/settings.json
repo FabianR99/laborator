@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/75470f4b-2e71-425e-9965-c71a159f8bbe/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/Halapi-Edward-datc2020-l2",
+    "appService.deploySubpath": "publish"
+}
